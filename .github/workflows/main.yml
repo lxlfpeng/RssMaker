@@ -32,6 +32,5 @@ jobs:
           git config --global user.email "lxlfpeng@163.com"
           git config --global user.name "lxlfpeng"
           git add README.md
-          git add docs
           git commit -m "Github Action auto Updated"
           git push
